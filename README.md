@@ -18,7 +18,6 @@
 
 `authors.json` - це файл, який містить інформацію про авторів цитат. Приклад структури:
 
-```json
 [
     {
         "fullname": "Albert Einstein",
@@ -72,11 +71,11 @@
 
 
 
-## Структура `quotes.json`
+Структура quotes.json
 
-`quotes.json` - це файл, який містить інформацію про авторів цитат. Приклад структури:
+quotes.json - це файл, який містить інформацію про цитати. Приклад структури:
 
-```json
+json
 [
     {
         "quote": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
@@ -129,5 +128,4 @@
         "tags": ["humor", "obvious", "simile"]
     }
 ]
-
 
