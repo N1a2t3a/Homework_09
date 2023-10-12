@@ -77,7 +77,6 @@
 `quotes.json` - це файл, який містить інформацію про авторів цитат. Приклад структури:
 
 ```json
-
 [
     {
         "quote": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
@@ -132,11 +131,3 @@
 ]
 
 
-## 'Автор'
-
-Natalia
-
-
-## 'Ліцензія'
-
-Цей проект ліцензований під ліцензією MIT - дивіться файл LICENSE для подробиць.
