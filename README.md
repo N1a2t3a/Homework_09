@@ -18,7 +18,7 @@
 
 `authors.json` - це файл, який містить інформацію про авторів цитат. Приклад структури:
 
-'''json
+```json
 [
     {
         "fullname": "Albert Einstein",
@@ -69,6 +69,3 @@
         "description": "Stephen Glenn \"Steve\" Martin is an American actor, comedian, writer, playwright, producer, musician, and composer..."
     }
 ]
-
-
-
